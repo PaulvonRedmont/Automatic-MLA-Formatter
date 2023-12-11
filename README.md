@@ -1,4 +1,4 @@
-# Automatic-MLA-Formatter
+# Automatic-MLA-Formatter Version 1.1
 
 This is an automatic MLA formatter built in Python 3.12.1. 
 
