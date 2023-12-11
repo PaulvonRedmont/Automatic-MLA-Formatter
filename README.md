@@ -19,6 +19,7 @@ Basically, you're going to have to install two things to get this to work:
 
 1) Python 
 2) Download the files from this repository
+3) Install additional libraries with pip (this allows the program to function properly)
 
 
 First Step:
@@ -38,8 +39,16 @@ Download the main.py file from this repository.
 
 
 
+Third Step:
 
-Now that you've gotten everything installed, move the main.py file to your desktop. Right click on it, and select “Open With” and then select “Python.” The program should then open up and be usable!
+Navigate to your command prompt, and type in `python --version` and hit enter. It should show you the python version that you currently have.
+
+Next, type in  `pip install pyperclip` and hit enter. It'll take a few seconds to complete the install.
+
+Once it is done installing, you can exit the command prompt.
+
+
+Now that you've gotten everything installed, move the main.py file to your desktop. Right-click on it, select “Open With” and then select “Python.” The program should then open up and be usable!
 
 (You should see something like this:
 ![image](https://github.com/PaulvonRedmont/Automatic-MLA-Formatter/assets/146851640/b3b84240-73db-4fa2-990c-4d092388e747)
