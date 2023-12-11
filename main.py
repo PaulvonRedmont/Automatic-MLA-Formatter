@@ -4,7 +4,7 @@ import pyperclip
 
 def generate_mla_citation(title, author, publisher, year, edition=None, volume=None, pages=None, url=None):
     citation = f'{author}. "{title}." {publisher}, {year}'
-    
+
     if edition:
         citation += f', {edition} ed.'
     if volume:
@@ -102,5 +102,8 @@ copy_button.grid(row=9, column=0, columnspan=3, pady=10)
 clear_button = tk.Button(window, text="Clear Inputs", command=clear_form)
 clear_button.grid(row=10, column=0, columnspan=3, pady=10)
 
-# Run the GUI
-window.mainloop()
+try:
+    # Run the GUI
+    window.mainloop()
+except Exception as e:
+    print(f"An error occurred: {e}")
