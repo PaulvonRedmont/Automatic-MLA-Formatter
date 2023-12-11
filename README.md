@@ -2,7 +2,7 @@
 
 This is an automatic MLA formatter built in Python 3.12.1.
 
-Basically, it will ask for basic information about the document/item you are citing, and it will automatically format it for you in MLA style.
+It will ask for basic information about the document/item you are citing, and it will automatically format it for you in MLA style.
 
 
 GETTING STARTED
