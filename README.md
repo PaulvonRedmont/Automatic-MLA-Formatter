@@ -26,7 +26,7 @@ First Step:
 
 Install Python. It's simple. Go to https://www.python.org/downloads/ and just download it. It's so simple a tree could do it.
 
-When you install it, be sure to select "Install for all users":
+IMPORTANT: WHEN INSTALLING, YOU MUST SELECT "Install for all users":
 
 ![image](https://github.com/PaulvonRedmont/Automatic-MLA-Formatter/assets/146851640/e4529826-ab8c-418a-a4d2-27a7e647f0b7)
 
