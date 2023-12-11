@@ -1,6 +1,6 @@
 # Automatic-MLA-Formatter
 
-This is an automatic MLA formatter built in Python 3.12.1. (DO NOT DOWNLOAD THE Complete Version of the Automatic MLA Citation)
+This is an automatic MLA formatter built in Python 3.12.1. 
 
 Why use this? Doesn't easybib exist?
 
