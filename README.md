@@ -2,6 +2,12 @@
 
 This is an automatic MLA formatter built in Python 3.12.1.
 
+Why use this? Doesn't easybib exist?
+
+Yea, it does, but it's stuffed with ads and probably malware if you click on 'em. 
+
+This is slightly more simple, but it 1) doesn't have ads and 2) works offline, so if you're on a plane or something and don't have internet access for easybib to save you, you'll thank me then.
+
 It will ask for basic information about the document/item you are citing, and it will automatically format it for you in MLA style.
 
 
