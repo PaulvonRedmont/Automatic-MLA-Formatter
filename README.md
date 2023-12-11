@@ -34,3 +34,7 @@ Download the main.py file from this repository.
 
 
 Now that you've gotten everything installed, move the main.py file to your desktop. Right click on it, and select “Open With” and then select “Python.” The program should then open up and be usable!
+
+(You should see something like this:
+![image](https://github.com/PaulvonRedmont/Automatic-MLA-Formatter/assets/146851640/b3b84240-73db-4fa2-990c-4d092388e747)
+)
