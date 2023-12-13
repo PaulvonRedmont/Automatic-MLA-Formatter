@@ -1,4 +1,4 @@
-# Automatic-MLA-Formatter Version 1.2
+# Automatic-MLA-Formatter Version 1.3
 
 This is an automatic MLA formatter built in Python 3.12.1. 
 
@@ -11,7 +11,7 @@ This 1) doesn't have ads and 2) works offline, so if you're on a plane or someth
 It will ask for basic information about the document/item you are citing, and it will automatically format it for you in MLA style.
 
 
-GETTING STARTED
+GETTING STARTED (ONLY FOR OLDER VERSIONS OF THE AUTOMATIC MLA FORMATTER 1.0-1.2)
 
 
 
