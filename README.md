@@ -13,7 +13,7 @@ It will ask for basic information about the document/item you are citing, and it
 
 All you have to do is just download the file and run it! It's simple!
 
-
++===============================================================================+
 
 GETTING STARTED (ONLY FOR OLDER VERSIONS OF THE AUTOMATIC MLA FORMATTER 1.0-1.2)
 
