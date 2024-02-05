@@ -20,10 +20,6 @@ https://drive.google.com/file/d/1VPUaCZ3bR3lwmb7NiCM-ab_Ndvp_iOZW/view?usp=shari
 (When you download and run it, it'll say that its a virus, but just run it anyway.)
 
 
-+===============================================================================+
-|                                                                               |
-+===============================================================================+
-
 GETTING STARTED (ONLY FOR OLDER VERSIONS OF THE AUTOMATIC MLA FORMATTER 1.0-1.2)
 
 
