@@ -1,7 +1,7 @@
 import tkinter as tk
 from tkinter import messagebox
 import pyperclip
-
+ 
 def generate_mla_citation(title, author, publisher, year, edition=None, volume=None, pages=None, url=None):
     citation = f'{author}. "{title}." {publisher}, {year}'
 
