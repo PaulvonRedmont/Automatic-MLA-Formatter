@@ -11,18 +11,6 @@ This 1) doesn't have ads and 2) works offline, so if you're on a plane or someth
 It will ask for basic information about the document/item you are citing, and it will automatically format it for you in MLA style.
 
 
-All you have to do is just download the file and run it! It's simple!
-
-You can download it here:
-
-https://drive.google.com/file/d/1VPUaCZ3bR3lwmb7NiCM-ab_Ndvp_iOZW/view?usp=sharing
-
-(When you download and run it, it'll say that its a virus, but just run it anyway.)
-
-
-GETTING STARTED (ONLY FOR OLDER VERSIONS OF THE AUTOMATIC MLA FORMATTER 1.0-1.2)
-
-
 
 Basically, you're going to have to install two things to get this to work:
 
